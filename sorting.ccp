@@ -1,6 +1,5 @@
 //sanjeeda 106116079
 //khatoon 106116079
-
 #include <stdio.h>
 #define MAXSIZE 10
 
